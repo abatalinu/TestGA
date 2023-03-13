@@ -1,0 +1,40 @@
+{
+	"components": [
+		{
+			"id": "wiz-text",
+			"name": {
+				"eng": "Text"
+			},
+			"icon": "node_modules/@site/wiz-text/icon.png"
+		},
+		{
+			"id": "wiz-image",
+			"name": {
+				"eng": "Image"
+			},
+			"icon": "node_modules/@site/wiz-image/icon.png"
+		},
+			{
+			"id": "wiz-video",
+			"name": {
+				"eng": "Video"
+			},
+			"icon": "node_modules/@site/wiz-video/icon.png"
+		},
+			{
+			"id": "wiz-button",
+			"name": {
+				"eng": "Button"
+			},
+			"icon": "node_modules/@site/wiz-button/icon.png"
+		},
+    {
+      "id": "wiz-references",
+      "name": {
+        "eng": "References"
+      },
+      "icon": "node_modules/@site/wiz-references/icon.png"
+    }
+	],
+	"ignore": []
+}

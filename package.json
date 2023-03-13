@@ -1,0 +1,35 @@
+{
+  "name": "default-viseven-site",
+  "templateId": "site-template",
+  "version": "1.0.2",
+  "description": "default site template",
+  "main": "./build/dev/app.js",
+  "scripts": {
+    "clear": "npx del-cli package-lock.json node_modules/",
+    "init": " npm run clear && wiz i",
+    "archive": "wiz dev && wiz archive",
+    "dev": "wiz dev --live --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "cobalt": {
+    "type": "layout"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@blocks/module-placeholder": "git+https://git.qapint.com/ewizardjs/site/blocks/module-placeholder.git#1.0.10",
+    "@email/wiz-social-follow-icons": "^3.0.0",
+    "@email/wiz-utility-button": "^2.0.0",
+    "@site/wiz-block": "^3.0.0",
+    "@site/wiz-button": "^2.0.0",
+    "@site/wiz-image": "^2.0.0",
+    "@site/wiz-placeholder": "^2.0.0",
+    "@site/wiz-references": "^2.0.2",
+    "@site/wiz-text": "^2.0.0",
+    "@site/wiz-video": "^1.0.1",
+    "ewizardjs": "~5.23.0"
+  }
+}

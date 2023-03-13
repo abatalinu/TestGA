@@ -1,0 +1,25 @@
+{
+  "name": "Viseven Default Landing Page",
+  "id": "60e08496b9aaa68f6e848e0e987d9cbd",
+  "localization": {
+    "current": "eng",
+    "original": "",
+    "langs": [
+      "",
+      "eng"
+    ],
+    "country": "Armenia"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "uncss": false,
+  "targetDevices": [],
+  "information": {
+    "brand": {
+      "id": "5ece7393aa4d920008776945",
+      "name": "Viseven"
+    }
+  },
+  "frameworkVersion": "5.23.0"
+}

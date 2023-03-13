@@ -1,0 +1,53 @@
+{
+	"components": [
+		{
+			"id": "module-placeholder",
+			"name": "Module Placeholder",
+			"model": {},
+			"path": "node_modules/@blocks/module-placeholder",
+			"metadata": []
+		},
+		{
+			"id": "default-site-header",
+			"name": "Header",
+			"model": {},
+			"path": "common/blocks-library/default-site-header",
+			"metadata": []
+		},
+				{
+			"id": "default-site-block01",
+			"name": "Block 01",
+			"model": {},
+			"path": "common/blocks-library/default-site-block01",
+			"metadata": []
+		},
+				{
+			"id": "default-site-block02",
+			"name": "Block 02",
+			"model": {},
+			"path": "common/blocks-library/default-site-block02",
+			"metadata": []
+		},
+				{
+			"id": "default-site-block03",
+			"name": "Block 03",
+			"model": {},
+			"path": "common/blocks-library/default-site-block03",
+			"metadata": []
+		},
+				{
+			"id": "default-site-block04",
+			"name": "Block 04",
+			"model": {},
+			"path": "common/blocks-library/default-site-block04",
+			"metadata": []
+		},
+				{
+			"id": "default-site-footer",
+			"name": "Footer",
+			"model": {},
+			"path": "common/blocks-library/default-site-footer",
+			"metadata": []
+		}
+	]
+}
